@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Chevy",
+    "price": 1500,
+    "year": 2015,
+    "contact" : {
+      "dealer": "Zhul",
+      "number": "222-222-2222"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bentley",
+    "price": 215000,
+    "year": 2021,
+     "contact" : {
+      "dealer": "Zhul",
+      "number": "222-222-2222"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Ford",
+    "price": 5000,
+    "year": 2005,
+     "contact" : {
+      "dealer": "Bambang",
+      "number": "333-333-3333"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Land Lover",
+    "price": 8500,
+    "year": 2019,
+     "contact" : {
+      "dealer": "Agus",
+      "number": "444-444-4444"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Nissan",
+    "price": 25000,
+    "year": 2013,
+     "contact" : {
+      "dealer": "Asep",
+      "number": "555-555-5555"
+    }
+  }
+]
